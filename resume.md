@@ -8,7 +8,7 @@ robots: noindex
 Interests
 ---------
 
-* Automation, Decentalized Technologies, Philosophy 
+* 
 
 
 Work Experience
