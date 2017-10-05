@@ -16,7 +16,6 @@ Work Experience
 
 *   **Word Processor** (Redmond, WA)
 
-    *Junior Resumé Maker*, 2006 - 2007
 
     -   Styling was a pain, so either didn't do it or found a half-decent
         template and didn't mess with it
