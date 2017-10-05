@@ -28,7 +28,6 @@ Work Experience
 
     -   Edited verbose \LaTeX\ documents in a text editor
     -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
         best-looking \LaTeX\ resumés
 
 *   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
