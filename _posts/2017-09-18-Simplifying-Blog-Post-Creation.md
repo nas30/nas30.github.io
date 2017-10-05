@@ -2,7 +2,7 @@
 title:  "Simplifying Blog Post File Creation"
 author: Nikolai Shields
 date:   2016-01-08 15:04:23
-categories: [dotfiles]
+categories: [blog]
 tags: [bash]
 ---
 This evening I decided to work on the task of building out my website with jekyll, And I must say at this point in the process jekyll has been
