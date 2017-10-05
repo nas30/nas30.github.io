@@ -8,7 +8,7 @@ robots: noindex
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+* Machine Learning, Automation, Decentalized Technologies, Philosophy 
 
 
 Work Experience
