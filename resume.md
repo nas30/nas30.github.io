@@ -39,6 +39,5 @@ Skills
 
 *   Fluent in Bash, Python, HTML/CSS, C, Go
 
-*   
 
 
