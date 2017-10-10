@@ -1,7 +1,7 @@
 ---
 title:  "Simplifying Blog Post File Creation"
 author: Nikolai Shields
-date:   2016-01-08 15:04:23
+date:   2017-09-18 15:04:23
 categories: [blog]
 tags: [bash]
 ---

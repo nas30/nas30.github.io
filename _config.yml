@@ -23,7 +23,7 @@ defaults:
 
 defaults:
   - scope:
-      path: '/keybase.txt'
+      path: 'keybase.txt'
     values:
       image: false
 
