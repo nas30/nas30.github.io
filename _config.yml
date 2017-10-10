@@ -21,6 +21,12 @@ defaults:
     values:
         layout: 'post'
 
+defaults:
+  - scope:
+      path: "/keybase.txt"
+    values:
+      image: false
+
 # Build settings
 destination: _site
 paginate: 10
