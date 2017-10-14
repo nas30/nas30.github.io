@@ -55,6 +55,7 @@ function new-post() {
 
 echo \
 "---
+layout: post
 title: "$TITLE" 
 author: "$AUTHOR"
 date:  "$(date "+%F %T")"
