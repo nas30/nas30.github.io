@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Simplifying Blog Post File Creation"
 author: Nikolai Shields
 date:   2017-09-18 15:04:23
