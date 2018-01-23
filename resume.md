@@ -12,11 +12,13 @@ Interests
 
 Work Experience
 ---------------
+* **University of West Florida, Pensacola, FL - Assistant Lab Manager**, October 2017 - Present
+    As the Assistant Lab Manager for the College of Mechanical and Electrical Engineering
 
-* **University of West Florida, Pensacola, FL — CSE Technician**, June 2015 - PRESENT
+* **University of West Florida, Pensacola, FL — CSE Technician**, June 2015 - November 2016
     As a CSE Technician I worked administrating linux and unix based systems, in addition to facilitating desktop support with a focus on configuring both hardware and software for testing and development environments for both production and research.
 
-* **University of West Florida, Pensacola, FL — Teacher's Assistant**, August 2016 - PRESENT
+* **University of West Florida, Pensacola, FL — Teacher's Assistant**, August 2016 - December 2016
     As a Teacher’s Assistant, I worked to assist Mr. Anthony Pinto in the creation of cybersecurity coursework, with a primary focus on developing and testing student laboratories.
 
 * **University of West Florida, Pensacola, FL — Research Assistant**, June 2015 - August 2016
@@ -40,6 +42,11 @@ Skills
 ------
 
 *   Fluent in Bash, Python, HTML/CSS, C, Go
-*   Administrated Windows, Mac, Linux Workstations and Servers
+*   Administration of Windows, Mac, Linux Workstations and Servers
+*   Expirience installing, maintaining, and upgrading software on production machines
+*   Competency with both Autodesk and Solidworks CAD software
+*   Fluent in Microsoft Office and Google Suites
+*   Expirience with JIRA, Spiceworks, ticketing system workflow
+*   In-depth understanding of routing and internetworking of office and enterprise environments
 
 
