@@ -19,13 +19,9 @@ Work Experience
     Physically manufactured and designed custom parts and tools using CNC machines, mills, lathes, and 3D printers
 
 * **University of West Florida, Pensacola, FL — CSE Technician**, June 2015 - November 2016
-<<<<<<< HEAD
     Administrated linux, Windows, Mac, and Unix systems
     Facilitated desktop support
     Configured both hardware and software for testing and development environments for both production and research
-=======
-    As a CSE Technician I worked administrating linux and unix based systems, in addition to facilitating desktop support with a focus on configuring both hardware and software for testing and development environments for both production and research.
->>>>>>> parent of 940996a... add references template
 
 * **University of West Florida, Pensacola, FL — Teacher's Assistant**, August 2016 - December 2016
    Created cybersecurity coursework for an emerging degree plan, under the new College of Cybersecurity
@@ -70,10 +66,6 @@ Interests
 ---------
 * Machine Learning, Decentralized Technologies, Cooking, Automation, Cryptography, Mathematics, Interplanetary Communication
 
-<<<<<<< HEAD
 References
 ----------
 Available upon request.
-=======
-
->>>>>>> parent of 940996a... add references template
