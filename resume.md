@@ -58,13 +58,12 @@ Skills
 *   Expirience installing, maintaining, and upgrading software on production machines
 *   Competency with both Autodesk and Solidworks CAD software
 *   Fluent in Microsoft Office and Google Suites
-*   Expirience with JIRA, Spiceworks, ticketing system workflow
+*   Expirience with JIRA, Spiceworks, ticketing-system workflows
 *   In-depth understanding of routing and internetworking of office and enterprise environments
 *   Expirience with docker, docker swarm
 
 Interests
 ---------
-
 * Machine Learning, Decentralized Technologies, Cooking, Automation, Cryptography, Mathematics, Interplanetary Communication
 
 References
