@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: post
 title: Nikolai Shields
 permalink: /resume/
 robots: noindex
