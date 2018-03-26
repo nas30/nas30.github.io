@@ -37,7 +37,9 @@ At present I have 4 branches in use :
 + laptop
 + server
 + dev
+
 As you can imagine the laptop is configured for my Thinkpad x230, which has some keyboard remappings and disabled trackpad stuff.
+
 Desktop is for my desktop, and server is used for my non-graphical systems.
 I use my dev branch for testing new configurations.
 
