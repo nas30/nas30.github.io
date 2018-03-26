@@ -1,4 +1,4 @@
------
+---
 layout: resume
 title: Nikolai Shields
 permalink: /resume/
