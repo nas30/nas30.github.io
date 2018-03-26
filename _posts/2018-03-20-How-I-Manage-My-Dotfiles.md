@@ -12,11 +12,11 @@ This has led me down the path of diverging configurations and left me wanting a 
 There are many tools out there that manage dotfiles, and many different ways to get the job done, be it symlink farmers, or repositories, or a hybrid solutions.
 Bottom line is there are many different ways to skin this cat, and I needed a solution that would do the following :
 
-1) manage and version my files
-2) easily deploy my files
-3) syncronize my files between machines (as I mentioned divergence being a problem earlier)
-4) not many dependancies/esoteric bits of code (easily understood and well documented implementaitions)
-5) manage different configurations for different machines in an easy way
+1. manage and version my files
+2. easily deploy my files
+3. syncronize my files between machines (as I mentioned divergence being a problem earlier)
+4. not many dependancies/esoteric bits of code (easily understood and well documented implementaitions)
+5. manage different configurations for different machines in an easy way
 
 With these stipulations in mind I went searching for solutions and ultimately settled on a clever comment by StreakyCobra in their post on [HackerNews](https://news.ycombinator.com/item?id=11070797),
 and gained greater insight and respect for its simplicity with [this](https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/) tutorial by Nicola Paolucci from Atlasssian.
