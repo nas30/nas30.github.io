@@ -24,8 +24,8 @@ and gained greater insight and respect for its simplicity with [this](https://de
 By using a bare git repository in your home directory you can check-in all the files for your configuration with familiar commmands and tools, as its just a git repo :
 
 ````bash
-config [add, rm, etc] file
-config [push, pull]
+config [ add, rm, etc ] file
+config [ push, pull ]
 ````
 
 The alias makes it all just feel right.
