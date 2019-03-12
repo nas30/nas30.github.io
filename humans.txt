@@ -1,3 +1,6 @@
+I started with this template from the teams below 
+
+
 /* TEAM */
 Developer & Designer: Josh Gerdes
 Twitter: @joshgerdes

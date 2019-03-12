@@ -41,6 +41,3 @@ If you like some stuff, commit the parts your like and merge them into your anot
 Anyway I hope this helps at least one person out there.
 
 -N
-
-
-Thanks to Nikzt for posting his [configuration](https://github.com/Nikzt/dotfiles)

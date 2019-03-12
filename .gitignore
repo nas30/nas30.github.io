@@ -4,3 +4,4 @@ vendor
 .jekyll-metadata
 .DS_Store
 deploy-local.sh
+Gemfile.lock
