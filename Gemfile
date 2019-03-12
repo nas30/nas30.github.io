@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'kramdown'
 gem 'github-pages'
 gem 'commonmarker'
 gem 'jekyll-analytics'
