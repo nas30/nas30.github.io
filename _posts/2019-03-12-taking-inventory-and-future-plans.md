@@ -22,19 +22,19 @@ Now for the inventory:
 * PN003 [8-core Cortex-A7, 2GB RAM](https://www.hardkernel.com/shop/odroid-hc2-home-cloud-two/)
 * A healthy amount of Ubiquity equipment (more on this in a later post)
 
-![PN00](http://localhost:4000/images/post-pictures/taking_inventory_2.jpg)
+![PN00](http://nikolaishields.com/images/post-pictures/taking_inventory_2.jpg)
 
 Since starting this job, I've been afforded the opportunity to do a much needed
 hardware refresh! All in all I spent less than ~$500, and got a new coffee table!
-![I haven't risked actually putting a cup of cofee on it yet](http://localhost:4000/images/post-pictures/taking_inventory_4.jpg)
+![I haven't risked actually putting a cup of cofee on it yet](http://nikolaishields.com/images/post-pictures/taking_inventory_4.jpg)
 
 I was also able to get a much needed new monitor.
 Its been just me and my thinkpad for some time, so I decided to splurge and get this 
 32" 2k display by Acer. It was on sale at the local microcenter for under $200, so I chalked it up as a win.
-![works great with a dock](http://localhost:4000/images/post-pictures/taking_inventory_1.jpg)
+![works great with a dock](http://nikolaishields.com/images/post-pictures/taking_inventory_1.jpg)
 
 In addition to all these goodies, I even recieved a new yubikey from a friend of mine to secure it all!
-![thanks](http://localhost:4000/images/post-pictures/taking_inventory_3.jpg)
+![thanks](http://nikolaishields.com/images/post-pictures/taking_inventory_3.jpg)
 
 Thats all for now.
 

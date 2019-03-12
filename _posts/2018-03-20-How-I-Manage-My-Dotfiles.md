@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Manage My Dotfiles 
+title: "How I Manage My Dotfiles"
 author: Nikolai Shields
 date:  2018-03-20 21:34:26
 categories: [dotfiles]
